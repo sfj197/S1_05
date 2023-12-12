@@ -1,0 +1,11 @@
+Apellidos (D) 2023-11-20
+catalanes.txt (F) 2023-11-23
+vascos.txt (F) 2023-11-23
+Asignaturas (D) 2023-11-19
+asignaturas.txt (F) 2023-11-19
+Edades (D) 2023-11-12
+Estudios (D) 2023-11-12
+Nombres (D) 2023-11-19
+Catalanes (D) 2023-11-23
+Noms.txt (F) 2023-11-23
+Españoles (D) 2023-11-19
