@@ -13,3 +13,6 @@ C:\Users\Jorge\eclipse-workspace\S1_05-N1-E1\src\n1ejercicio1>dir
 4.Ejecutarlo.
 
 C:\Users\Jorge\eclipse-workspace\S1_05\src\n1ejercicio1>java Main.java
+
+5.Si deseamos meterle un argumento a continuacion de java Main.java pasaremos la ruta , sino leera el directorio de 
+la ruta en que se encuentra.
